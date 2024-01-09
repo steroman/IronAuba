@@ -1,1 +1,1 @@
-I need to write always a number of emojis that is power of 2 (e.g. 2, 4, 8, 16, etc)
+I need to write always a number of emojis that is power of 2 (e.g. 2, 4, 8, 16, etc).
